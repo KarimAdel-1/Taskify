@@ -1,4 +1,4 @@
-![Alt text]('/images/logo.png')
+![Taskify Logo](/images/logo.png)
 
 Taskify is a powerful and user-friendly task management application designed to help you stay organized and productive. With features like drag-and-drop task management, customizable task phases, and real-time search, Taskify makes it easy to manage your tasks efficiently.
 
