@@ -50,7 +50,7 @@ To get up and running with Taskify, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/taskify.git
+   git clone https://github.com/KarimAdel-1/taskify.git
    cd taskify
    ```
 
